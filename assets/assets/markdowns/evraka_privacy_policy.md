@@ -6,14 +6,10 @@ This Privacy Policy ("Policy") explains how Mete Kağan MUSAAK, owner of the app
 
 ### Information I Collect
 
-1. **Personal Information:**
-   - **Email Address:** Collected during account registration or sign-in.
-   - **Third-Party Sign-In Information:** Collected when you sign in using Google or Microsoft services.
-
-2. **Non-Personal Information:**
+1. **Non-Personal Information:**
    - Collected through cookies and similar tracking technologies, including your usage patterns and preferences.
 
-3. **Guest Access:**
+2. **Guest Access:**
    - You may use the App without providing personal information by accessing it as a guest.
 
 ### How I Use Your Information
