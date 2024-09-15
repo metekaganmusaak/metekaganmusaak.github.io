@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This Privacy Policy ("Policy") explains how Mete Kağan MUSAAK, owner of the app, ("I," "me," or "my") collects, uses, and discloses your information when you use Evraka ("App"). By accessing or using the App, you agree to this Policy.
+This Privacy Policy ("Policy") explains how Musaak, owner of the app, ("I," "me," or "my") collects, uses, and discloses your information when you use Evraka - Word Finder, Evraka ("App"). By accessing or using the App, you agree to this Policy.
 
 ### Information I Collect
 
@@ -30,7 +30,7 @@ I may use your information to:
 I may disclose your information in the following cases:
 
 1. **Service Providers:**
-   - To third-party services like RevenueCat for in-app purchase management and advertising networks for displaying ads.
+   - To third-party services like in-app purchase management and advertising networks for displaying ads.
 
 2. **Legal Requirements:**
    - To comply with legal obligations, court orders, or government requests.
