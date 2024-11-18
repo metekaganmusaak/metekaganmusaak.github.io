@@ -30,7 +30,7 @@ I may use your information to:
 I may disclose your information in the following cases:
 
 1. **Service Providers:**
-   - To third-party services for in-app purchase management and advertising networks for displaying ads.
+   - To third-party services like RevenueCat for in-app purchase management and advertising networks for displaying ads.
 
 2. **Legal Requirements:**
    - To comply with legal obligations, court orders, or government requests.
